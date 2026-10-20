@@ -1,0 +1,9 @@
+.env
+*.session*
+.git
+.venv
+__pycache__
+downloads
+*.log
+*.bak
+data
